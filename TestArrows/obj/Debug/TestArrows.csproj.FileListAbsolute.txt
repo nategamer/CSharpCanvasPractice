@@ -1,0 +1,15 @@
+C:\Users\birny\source\repos\TestArrows\bin\Debug\TestArrows.exe.config
+C:\Users\birny\source\repos\TestArrows\bin\Debug\TestArrows.exe
+C:\Users\birny\source\repos\TestArrows\bin\Debug\TestArrows.pdb
+C:\Users\birny\source\repos\TestArrows\obj\Debug\TestArrows.csproj.AssemblyReference.cache
+C:\Users\birny\source\repos\TestArrows\obj\Debug\MainWindow.g.cs
+C:\Users\birny\source\repos\TestArrows\obj\Debug\App.g.cs
+C:\Users\birny\source\repos\TestArrows\obj\Debug\TestArrows_MarkupCompile.cache
+C:\Users\birny\source\repos\TestArrows\obj\Debug\TestArrows_MarkupCompile.lref
+C:\Users\birny\source\repos\TestArrows\obj\Debug\MainWindow.baml
+C:\Users\birny\source\repos\TestArrows\obj\Debug\TestArrows.g.resources
+C:\Users\birny\source\repos\TestArrows\obj\Debug\TestArrows.Properties.Resources.resources
+C:\Users\birny\source\repos\TestArrows\obj\Debug\TestArrows.csproj.GenerateResource.cache
+C:\Users\birny\source\repos\TestArrows\obj\Debug\TestArrows.csproj.CoreCompileInputs.cache
+C:\Users\birny\source\repos\TestArrows\obj\Debug\TestArrows.exe
+C:\Users\birny\source\repos\TestArrows\obj\Debug\TestArrows.pdb
